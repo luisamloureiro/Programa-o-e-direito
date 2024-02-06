@@ -1,5 +1,5 @@
-Inteligência artificial: a Inteligência Artificial 
-Algoritmo:
+Inteligência artificial: a Inteligência Artificial faz parte da ciência da computação e diz respeito a programas que são capazes de reproduzir comportamentos humanos
+Algoritmo: 
 Banco de dados
 Jurimetria
 Neutralidade da rede
