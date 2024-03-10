@@ -36,14 +36,19 @@ int main() {
     return 0;
 }
 
+https://www.mycompiler.io/view/77WR7lGj08I
+
 **JavaScript:**
 
 console.log("Hello, World! (JavaScript)")
 
+https://www.mycompiler.io/view/9bn75fpnWgh
 
 **Python:**
 
 print("Hello, World! (Python)")
+
+https://www.mycompiler.io/view/1cl6SOolxLM
 
 
 Esses são programas simples que exibem a mensagem "Hello, World!" na saída padrão. Cada exemplo mostra a sintaxe básica da linguagem em questão.
