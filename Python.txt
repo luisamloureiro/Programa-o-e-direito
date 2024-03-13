@@ -1,0 +1,24 @@
+
+### Exemplo de Estrutura de Repetição (Loop `for`):
+
+```python
+# Estrutura de repetição usando o loop 'for' para imprimir os números de 1 a 5
+for numero in range(1, 6):
+    print(numero)
+```
+
+Neste exemplo, o loop `for` percorre os números de 1 a 5 e imprime cada número na tela.
+
+### Exemplo de Estrutura de Tomada de Decisão (Condicional `if`):
+
+```python
+# Estrutura de tomada de decisão usando o condicional 'if' para verificar se um número é par ou ímpar
+numero = 7
+
+if numero % 2 == 0:
+    print(f"{numero} é um número par.")
+else:
+    print(f"{numero} é um número ímpar.")
+```
+
+Neste exemplo, a estrutura de decisão `if` verifica se o número é par ou ímpar com base no resto da divisão por 2. Se o resto for zero, o número é par; caso contrário, é ímpar.
